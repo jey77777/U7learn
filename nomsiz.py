@@ -70,11 +70,12 @@
 #     print(e)
 
 
-def devide (x,y):
-    try:
-         result = x//y
-         print("Natija: ", result)
-    except ZeroDivisionError as a: 
-         print(f"Xatolik. notga bolish mumkinmas{a}")
+# def devide (x,y):
+#     try:
+#          result = x//y
+#          print("Natija: ", result)
+#     except ZeroDivisionError as a: 
+#          print(f"Xatolik. notga bolish mumkinmas{a}")
 
-devide(5,3)
+# devide(5,3)
+
